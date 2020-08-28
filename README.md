@@ -26,7 +26,7 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 ## What I've been doing recently
 
 * :zap: Working full time as a frontend developer
-* :brazil: Working with brazilian open data as side projects
+* :brazil: Exploring brazilian open data as side projects
 * :books: Studying more about algorithms, system design and python
 
 > I highly recommend this book: [Fluent python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
