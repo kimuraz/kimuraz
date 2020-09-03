@@ -9,7 +9,9 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 <img align='right' alt="sakeoctocat from octodex" src="https://octodex.github.com/images/saketocat.png" width="230"/>
 
 * Current technologies I'm working with: Javascript, React, VueJS, Nuxt.js, GraphQL, Python3, Django
-* My wishlist to go forward: [vue-interact](https://github.com/kimuraz/vue-interact)
+* My wishlist to go forward with: 
+[vue-interact](https://github.com/kimuraz/vue-interact)
+AcompanhaLegis (to be open sourced)
 
 ## Things that I think it's cool:
 
