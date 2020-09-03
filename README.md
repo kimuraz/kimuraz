@@ -10,8 +10,10 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
 * Current technologies I'm working with: Javascript, React, VueJS, Nuxt.js, GraphQL, Python3, Django
 * My wishlist to go forward with: 
-[vue-interact](https://github.com/kimuraz/vue-interact)
-AcompanhaLegis (to be open sourced)
+
+  * [vue-interact](https://github.com/kimuraz/vue-interact)
+
+  * AcompanhaLegis (to be open sourced)
 
 ## Things that I think it's cool:
 
