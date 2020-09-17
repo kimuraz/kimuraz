@@ -13,7 +13,7 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
   * [vue-interact](https://github.com/kimuraz/vue-interact)
 
-  * AcompanhaLegis (to be open sourced)
+  * [AcompanhaLegis](https://github.com/AcompanhaLegis)
 
 ## Things that I think it's cool:
 
