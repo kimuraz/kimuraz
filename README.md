@@ -37,4 +37,4 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
 ## :email: Contact
 
-Reach out checking my contacts there :point_left:
+Check contacts there :point_left: to reach out
