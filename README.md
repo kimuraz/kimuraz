@@ -6,8 +6,6 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
 ## Tech stuff
 
-<img align='right' alt="sakeoctocat from octodex" src="https://octodex.github.com/images/saketocat.png" width="230"/>
-
 * Current technologies I'm working with: Javascript, React, VueJS, Nuxt.js, GraphQL, Python3, Django
 * My wishlist to move forward with: 
 
@@ -16,6 +14,11 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
   * [AcompanhaLegis](https://github.com/AcompanhaLegis)
 
   * [Kanji Benkyou](https://github.com/kimuraz/kanji-benkyou)
+
+<img alt="Language usage summary auto generated" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimuraz&langs_count=5&theme=tokyonight" width="230"/>
+
+<img alt="My profile rating auto generated" src="https://github-readme-stats.vercel.app/api/?username=kimuraz&count_private=true&theme=tokyonight&showicons=true" width="460"/>
+
 
 ## Things that I think it's cool:
 
