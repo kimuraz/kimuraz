@@ -42,4 +42,4 @@ Currently based in The Netherlads :netherlands: originally from Brasil :brazil: 
 
 ## :email: Contact
 
-Check contacts there :point_left: to reach out
+:point_left: Check my contact info over there to reach out
